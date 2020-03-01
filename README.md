@@ -1,4 +1,4 @@
-# ruzbazaar ruzbazaar store app privacy policy
+# ruzbazaar store app privacy policy
 
 # ccom.ruzbazaar.app ruzbazaar store app
 
